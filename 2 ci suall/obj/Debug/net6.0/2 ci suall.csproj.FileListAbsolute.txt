@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\2 ci suall\2 ci suall\bin\Debug\net6.0\2 ci suall.exe
+C:\Users\User\source\repos\2 ci suall\2 ci suall\bin\Debug\net6.0\2 ci suall.deps.json
+C:\Users\User\source\repos\2 ci suall\2 ci suall\bin\Debug\net6.0\2 ci suall.runtimeconfig.json
+C:\Users\User\source\repos\2 ci suall\2 ci suall\bin\Debug\net6.0\2 ci suall.dll
+C:\Users\User\source\repos\2 ci suall\2 ci suall\bin\Debug\net6.0\2 ci suall.pdb
+C:\Users\User\source\repos\2 ci suall\2 ci suall\obj\Debug\net6.0\2 ci suall.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\2 ci suall\2 ci suall\obj\Debug\net6.0\2 ci suall.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\2 ci suall\2 ci suall\obj\Debug\net6.0\2 ci suall.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\2 ci suall\2 ci suall\obj\Debug\net6.0\2 ci suall.AssemblyInfo.cs
+C:\Users\User\source\repos\2 ci suall\2 ci suall\obj\Debug\net6.0\2 ci suall.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\2 ci suall\2 ci suall\obj\Debug\net6.0\2 ci suall.dll
+C:\Users\User\source\repos\2 ci suall\2 ci suall\obj\Debug\net6.0\refint\2 ci suall.dll
+C:\Users\User\source\repos\2 ci suall\2 ci suall\obj\Debug\net6.0\2 ci suall.pdb
+C:\Users\User\source\repos\2 ci suall\2 ci suall\obj\Debug\net6.0\2 ci suall.genruntimeconfig.cache
+C:\Users\User\source\repos\2 ci suall\2 ci suall\obj\Debug\net6.0\ref\2 ci suall.dll
